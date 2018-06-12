@@ -1,0 +1,6 @@
+/ubuntu-iso/*
+/output/*
+init
+/temp
+ubuntu.iso
+/src/eldrimner/install.tar
